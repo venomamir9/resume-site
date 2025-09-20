@@ -1,0 +1,49 @@
+body {
+    font-family: 'tahoma', sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #222;
+    color: #fff;
+}
+
+section {
+    margin-top: 30px;
+
+}
+
+h2 {
+    color: #333;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    color: #777;
+}
